@@ -668,10 +668,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 216251f5-b2ef-494a-bc80-102ea55a260a
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: SKUMECodex
+  organizationId: jani-turunen-as-publisher
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 1
   disableOldInputManagerSupport: 0
